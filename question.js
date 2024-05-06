@@ -2,7 +2,7 @@
 let questions = [
     {
     numb: 1,
-    question: "combien avez vous vu de fenestrous sur ces 2 bâtiments ?",
+    question: "Combien avez-vous vu de fenestrous sur ces 2 bâtiments ?",
     answer: "4) 11",
     options: [
       "1) 8",
