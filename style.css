@@ -12,6 +12,12 @@ body{
     background-size: cover;
     /*background: #007bff;*/
 }
+.imgg{
+    margin-top: 25%;
+}
+img{
+    width: 90px;
+}
 
 ::selection{
     color: #fff;
@@ -458,7 +464,20 @@ footer button.show{
 }
 
 
+@media screen and (max-width:333px) {
 
+    .imgg{
+        margin-top: 35%;
+    }
+    
+}
+ @media screen and ( min-width:448px) {
 
+    .imgg{
+        position: fixed;
+        margin-left: 10%;
+    }
+    
+ }
 
 
